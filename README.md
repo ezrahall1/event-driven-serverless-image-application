@@ -19,10 +19,8 @@ In this project I will be demonstrating how I built an event-driven serverless i
 
 <h2>YouTube Demonstration </h2>
 
-[How to create a resume website using Azure](https://github.com/ezrahall1/azure-static-resume-website)
+[How to build event-driven serverless image application](https://youtu.be/gA0x_mbkN-c)
 
-<h2>Adding custom domain to Azure in order to securely display my resume</h2>
 
-<img src="https://i.imgur.com/I5H9LqQ.png" height="80%" width="80%" alt="Image 1"/>
 
 </p>
