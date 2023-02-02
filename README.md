@@ -17,6 +17,12 @@ In this project I will be demonstrating how I built an event-driven serverless i
 
 - <b>AWS</b>
 
+
+<h2>Selecting one of the pixelated images</h2>
+
+<img src="https://i.imgur.com/m3FRkYg.png" height="80%" width="80%" alt="Image 1"/>
+
+
 <h2>YouTube Demonstration </h2>
 
 [How to build event-driven serverless image application](https://youtu.be/gA0x_mbkN-c)
