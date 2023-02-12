@@ -18,14 +18,14 @@ In this project I will be demonstrating how I built an event-driven serverless i
 - <b>AWS</b>
 
 <h2>Program walk-through:</h2>
-<H3>Step 1 - Create S3 bucket and upload content</H3>
+<H3>Step 1 - Create S3 bucket</H3>
 <img src="https://i.imgur.com/a30DOD0.png" height="80%" width="80%" alt="Image 1"/>
 
-<H3>Step 2 - Create S3 bucket and upload content</H3>
+<H3>Step 2 - Create Lambda role</H3>
 <img src="https://i.imgur.com/L79YUH2.png" height="80%" width="80%" alt="Image 2"/>
 
 
-<H3>Step 3 - Create S3 bucket and upload content</H3>
+<H3>Step 3 - Create Lambda function</H3>
 <img src="https://i.imgur.com/ouSc9gY.png" height="80%" width="80%" alt="Image 3"/>
 
 
